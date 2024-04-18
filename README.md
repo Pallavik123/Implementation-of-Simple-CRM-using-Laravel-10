@@ -17,8 +17,8 @@ Customer Relationship Management, is a system that helps businesses to  manage i
 * Project Management
 
 ## Future Scope
-1.Kanban Boards.
-2.Payments
+* Kanban Boards.
+* Payments
 
 ## Deployment Steps
 * Clone the project repository by running the command below: git clone.
