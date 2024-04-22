@@ -1,4 +1,4 @@
-Simple CRM with Multi-Tenancy using Laravel 10 
+Laravel Multitenant CRM Engineer: Crafting Complex Solutions for Dynamic Business Needs
 
 
 ## Summary
